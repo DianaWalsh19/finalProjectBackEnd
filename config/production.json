@@ -1,0 +1,6 @@
+{
+  "name": "Asthma App - Production",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}
