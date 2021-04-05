@@ -5,6 +5,7 @@ const morgan = require("morgan");
 const helmet = require("helmet");
 const logger = require("./middleware/logger");
 const users = require("./routes/users");
+const readings = require("./routes/readings");
 const home = require("./routes/home");
 const express = require("express");
 const app = express();
@@ -26,6 +27,7 @@ app.use(logger);
 //app.use(authenticator);
 app.use(helmet());
 app.use("/api/users", users);
+app.use("/api/readings", readings);
 app.use("/", home);
 
 if (app.get("env") === "development") {
