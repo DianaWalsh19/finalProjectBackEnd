@@ -1,13 +1,21 @@
+const mongoose = require("mongoose");
 const debug = require("debug")("app:startup");
 const config = require("config");
 const morgan = require("morgan");
 const helmet = require("helmet");
-const Joi = require("joi");
 const logger = require("./middleware/logger");
 const users = require("./routes/users");
 const home = require("./routes/home");
 const express = require("express");
 const app = express();
+
+mongoose
+  .set("useNewUrlParser", true)
+  .set("useUnifiedTopology", true)
+  .connect("mongodb://localhost/asthmaAppDb")
+  .then(() => debug("Connected to MongoDB"))
+  .then(() => console.log("Connected to MongoDB"))
+  .catch((err) => debug.log("Could not connect with MongoDB...", err));
 
 app.set("view engine", "pug");
 
