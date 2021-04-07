@@ -1,6 +1,8 @@
+const auth = require("../middleware/auth");
 const { Reading, validate } = require("../models/reading");
 const { User } = require("../models/user");
 const mongoose = require("mongoose");
+const _ = require("lodash");
 const express = require("express");
 const router = express.Router();
 
@@ -18,7 +20,7 @@ router.get("/:id", async (req, res) => {
   res.send(reading);
 });
 
-router.post("/", async (req, res) => {
+router.post("/", auth, async (req, res) => {
   const { error } = validate(req.body);
   if (error) return res.status(400).send(error.details[0].message);
 
@@ -27,14 +29,14 @@ router.post("/", async (req, res) => {
 
   const reading = new Reading({
     value: req.body.value,
-    user: { _id: user._id },
+    user: { _id: user._id, email: user.email, password: user.password },
     preMed: req.body.preMed,
     dateTime: req.body.dateTime,
     notes: req.body.notes,
   });
   await reading.save();
 
-  res.send(reading);
+  res.send(_.omit(reading, ["password"]));
 });
 
 router.put("/:id", async (req, res) => {

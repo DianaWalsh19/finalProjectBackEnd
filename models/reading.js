@@ -28,7 +28,7 @@ const Reading = mongoose.model("Reading", readingSchema);
 function validateReading(reading) {
   const schema = {
     value: Joi.number().required().min(100).max(1000),
-    //userId: Joi.objectId().required(),
+    userId: Joi.objectId().required(),
     preMed: Joi.string().required(),
     dateTime: Joi.string().required(),
     notes: Joi.string().allow(""),
@@ -37,6 +37,6 @@ function validateReading(reading) {
   return Joi.validate(reading, schema);
 }
 
-exports.readingSchema = readingSchema;
+//exports.readingSchema = readingSchema;
 exports.Reading = Reading;
 exports.validate = validateReading;
