@@ -1,4 +1,6 @@
 require("dotenv").config();
+require("express-async-errors");
+const error = require("./middleware/error");
 const config = require("config");
 const morgan = require("morgan");
 const helmet = require("helmet");
@@ -41,6 +43,7 @@ app.use("/api/users", users);
 app.use("/api/readings", readings);
 app.use("/api/auth", auth);
 app.use("/", home);
+app.use(error);
 
 if (app.get("env") === "development") {
   app.use(morgan("tiny"));

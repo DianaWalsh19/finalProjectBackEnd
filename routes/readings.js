@@ -1,3 +1,4 @@
+//const asyncMiddleware = require("../middleware/async");
 const auth = require("../middleware/auth");
 const { Reading, validate } = require("../models/reading");
 const { User } = require("../models/user");
