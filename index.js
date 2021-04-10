@@ -6,7 +6,6 @@ const error = require("./middleware/error");
 const config = require("config");
 const morgan = require("morgan");
 const helmet = require("helmet");
-const logger = require("./middleware/logger");
 const Joi = require("joi");
 Joi.objectId = require("joi-objectid")(Joi);
 const mongoose = require("mongoose");
@@ -18,10 +17,17 @@ const auth = require("./routes/auth");
 const express = require("express");
 const app = express();
 
+process.on("uncaughtException", (ex) => {
+  console.log("Got an uncaught Exception");
+  winston.error(ex.message, ex);
+});
+
 winston.add(winston.transports.File, { filename: "logfile.log" });
 winston.add(winston.transports.MongoDB, {
   db: "mongodb://localhost/asthmaAppDb",
 });
+
+throw new Error("Just testing uncaught exceptions");
 
 if (!config.get("jwtPrivateKey")) {
   console.error("FATAL ERROR: JWTPriateKey is not defined");
@@ -43,7 +49,6 @@ app.set("view engine", "pug");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
-app.use(logger);
 app.use(auth);
 app.use(helmet());
 app.use("/api/users", users);
