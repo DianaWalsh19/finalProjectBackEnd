@@ -1,6 +1,7 @@
 require("dotenv").config();
 require("express-async-errors");
 const winston = require("winston");
+require("winston-mongodb");
 const error = require("./middleware/error");
 const config = require("config");
 const morgan = require("morgan");
@@ -18,6 +19,9 @@ const express = require("express");
 const app = express();
 
 winston.add(winston.transports.File, { filename: "logfile.log" });
+winston.add(winston.transports.MongoDB, {
+  db: "mongodb://localhost/asthmaAppDb",
+});
 
 if (!config.get("jwtPrivateKey")) {
   console.error("FATAL ERROR: JWTPriateKey is not defined");
