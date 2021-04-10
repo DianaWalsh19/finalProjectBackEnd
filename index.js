@@ -1,5 +1,6 @@
 require("dotenv").config();
 require("express-async-errors");
+const winston = require("winston");
 const error = require("./middleware/error");
 const config = require("config");
 const morgan = require("morgan");
@@ -15,6 +16,8 @@ const home = require("./routes/home");
 const auth = require("./routes/auth");
 const express = require("express");
 const app = express();
+
+winston.add(winston.transports.File, { filename: "logfile.log" });
 
 if (!config.get("jwtPrivateKey")) {
   console.error("FATAL ERROR: JWTPriateKey is not defined");
