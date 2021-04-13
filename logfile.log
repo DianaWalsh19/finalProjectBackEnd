@@ -7,3 +7,7 @@
 {"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb...","timestamp":"2021-04-13T19:38:19.259Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-13T19:42:26.387Z"}
 {"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-13T19:42:26.404Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-13T22:18:00.651Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb...","timestamp":"2021-04-13T22:18:00.669Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-13T22:18:14.062Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-13T22:18:14.080Z"}
