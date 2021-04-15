@@ -8,7 +8,7 @@ const express = require("express");
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-  throw new Error("Could not get the readings");
+  //throw new Error("Could not get the readings");
   const readings = await Reading.find().sort("-dateTime");
   res.send(readings);
 });
