@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "asthma_app_backend_jwtPrivateKey"
+  "jwtPrivateKey": "asthma_app_backend_jwtPrivateKey",
+  "db": "asthma_app_db"
 }
