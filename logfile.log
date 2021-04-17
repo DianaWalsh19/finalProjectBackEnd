@@ -67,3 +67,211 @@
 {"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T14:52:30.558Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T14:53:33.979Z"}
 {"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T14:53:33.997Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:01:15.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:01:15.116Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:02:25.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:02:25.390Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:08:30.082Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:08:30.123Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:09:01.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:09:02.013Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:09:36.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:09:36.129Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:09:45.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:09:45.835Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:09:56.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:09:56.781Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:10:48.002Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:10:48.034Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:11:20.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:11:20.696Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:12:59.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:12:59.894Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:13:15.019Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:13:15.044Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:14:16.415Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:14:16.440Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:24:02.987Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:24:03.009Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:26:25.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:26:25.939Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:28:01.272Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:28:01.292Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:31:35.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:31:35.660Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:33:24.615Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:33:24.638Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:34:35.232Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:34:35.253Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:35:01.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:35:01.855Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:35:55.427Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:35:55.446Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:36:08.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:36:08.795Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:36:18.574Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:36:18.592Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:39:03.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:39:03.937Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:56:02.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:56:02.039Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:56:30.849Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:56:30.880Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T15:56:40.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T15:56:40.994Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:03:13.919Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:03:13.948Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:04:15.936Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:04:15.956Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:04:45.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:04:45.588Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:06:26.819Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:06:26.843Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:08:59.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:08:59.826Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:13:41.464Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:13:41.484Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:14:14.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:14:14.257Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:15:01.393Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:15:01.414Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:15:29.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:15:29.568Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:15:42.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:15:42.676Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:17:13.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:17:13.964Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:17:54.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:17:54.886Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:22:11.407Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:22:11.438Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:24:33.670Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:24:33.694Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:26:23.623Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:26:23.641Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:28:45.451Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:28:45.478Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:29:26.513Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:29:26.537Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:31:52.817Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:31:52.842Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:35:47.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:35:47.998Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:36:38.253Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:36:38.279Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:37:01.608Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:37:01.628Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:37:36.502Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:37:36.530Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:37:36.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:37:36.792Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:38:08.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:38:08.992Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:40:15.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:40:15.405Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:40:15.685Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:40:15.722Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:40:30.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:40:30.441Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:40:58.706Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:40:58.732Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:42:19.767Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:42:19.792Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:45:26.124Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:45:26.151Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:48:23.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:48:23.375Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:49:02.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:49:02.364Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:49:02.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:49:02.708Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:52:16.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:52:16.284Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:52:16.523Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:52:16.569Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:55:54.223Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:55:54.243Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T16:55:54.479Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T16:55:54.528Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:06:03.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:06:03.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:06:03.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:06:03.091Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:06:37.538Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:06:37.560Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:06:37.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:06:37.603Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:07:29.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:07:29.674Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:08:12.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:08:12.995Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:08:38.983Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:08:39.003Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:08:39.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:08:39.304Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:20:05.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:20:05.053Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:20:05.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:20:05.343Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:22:41.574Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:22:41.602Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:22:41.888Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:22:41.934Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:23:31.306Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:23:31.328Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:23:31.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:23:31.493Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:23:56.005Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:23:56.033Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:23:56.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:23:56.312Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:26:10.252Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:26:10.278Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:26:10.522Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:26:10.560Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:26:25.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:26:25.056Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:26:25.320Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:26:25.356Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:27:00.429Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:27:00.481Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:27:00.471Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:27:00.523Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:27:13.006Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:27:13.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:27:13.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:27:13.058Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:27:37.722Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:27:37.723Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:27:37.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:27:37.778Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:28:21.819Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:28:21.803Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:28:21.860Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:28:21.873Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:29:50.440Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:29:50.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:29:50.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:29:50.527Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:30:57.457Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:30:57.489Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:30:57.486Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:30:57.535Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:33:22.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:33:23.002Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:34:44.402Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:34:44.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:34:44.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:34:44.465Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:34:49.977Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:34:50.006Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:34:50.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:34:50.059Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:38:36.514Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:38:36.544Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:38:36.536Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:38:36.585Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:38:57.382Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:38:57.452Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-04-17T17:38:57.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/asthmaAppDb_tests...","timestamp":"2021-04-17T17:38:57.518Z"}
